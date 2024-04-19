@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+
+# PHP
+*.log
+
+# Environment files
+.env 
+
+# Build output
+dist/
+build/
+
+# Temporary files and caches
+*.tmp
+*.cache
+
+# Backup files
+*~
+
+# Editor-specific files
+.vscode/
+.DS_Store
